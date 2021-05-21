@@ -18,7 +18,7 @@
         100%
             opacity: 1
             transform: translateY(-4px)
-
+// Animation delay time
     @for $i from 1 through 25
         &:nth-child(#{$i}n)
             animation-delay: #{$i * 0.50}s
