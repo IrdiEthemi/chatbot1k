@@ -1,4 +1,4 @@
-![Dialogflow for Web v2](https://i.imgur.com/J8aTIwt.png)
+
 
 # Dialogflow for Web *v2*
 
